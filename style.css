@@ -1,0 +1,14 @@
+body{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  flex-direction:column;
+  text-align:center;
+  font-family:'Inter', sans-serif;
+  font-weight:bolder;
+  color:#FDFBF7;
+  background-color:#0F1115;
+}
+#Email, #Tel{
+  color:#FDFBF7;
+}
